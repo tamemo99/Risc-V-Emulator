@@ -7,5 +7,5 @@ To Run this emulator you should type in the command shell:
   $ hu_risc-v_emu ./ProgrammPrimzahlen/instruction_mem.bin ./ProgrammPrimzahlen/data_mem.bin
   
 # Output: 
-the Output should be the value in each register AND the primnumbers until 200. 
+the Output should be the value in each register AND the prime numbers x with x < 200 
  
