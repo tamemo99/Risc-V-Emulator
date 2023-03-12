@@ -1,5 +1,5 @@
-#Project
-This Project was part of the Subject "Digital Systems" in the Humboldt University of Berlin.
+# Project
+This project was part of the module "Digital Systems" in the Humboldt University of Berlin during the Sommersemester of 2022
 
 # How to Run:
 To Run this emulator you should type in the commandshell:
