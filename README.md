@@ -8,3 +8,4 @@ To Run this emulator you should type in the commandshell:
   
 # Output: 
 the Output should be the value in each register AND the primnumbers until 200. 
+ 
